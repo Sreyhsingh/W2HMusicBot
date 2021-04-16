@@ -12,7 +12,7 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Hi {message.from_user.first_name}!
 I am 𝗠𝘂𝘀𝗶𝗰𝗕𝗼𝘁 VC Music Player, an open-source bot that lets you play music in your Telegram groups.
-For source code Join our support group @AuraXSupport.
+For source code Join our support group @RAVAN102030.
 /help to know my commands.
  </b>""",
       
@@ -21,7 +21,7 @@ For source code Join our support group @AuraXSupport.
             [
                 [
                     InlineKeyboardButton(
-                        "Support⚡️", url="https://t.me/AuraXSupport"
+                        "Support⚡️", url="https://t.me/RAVAN102030"
                     )
                 ],
                 [
