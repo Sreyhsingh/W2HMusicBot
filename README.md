@@ -1,4 +1,4 @@
-#W2H VC MUSIC BOT - Enjoy our music bot with w2h official music bot
+W2H VC MUSIC BOT - Enjoy our music bot with w2h official music bot
 [![W2H_MusicBot logo](https://telegra.ph/file/d46462b22adc51890c048.jpg)](https://t.me/Ravan102030)
 
 
