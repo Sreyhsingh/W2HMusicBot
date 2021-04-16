@@ -1,5 +1,5 @@
 # AuraXMusicBot TELEGRAM VC MUSIC BOT - This is a pyrogram bot based on pytgcalls for playing songs or audio files in Telegram group voice chat
-[![AuraXMusicBot logo](https://telegra.ph/file/d21963be67c93841589ee.jpg)](https://t.me/AuraXNetwork)
+[![W2H_MusicBot logo](https://telegra.ph/file/d46462b22adc51890c048.jpg)](https://t.me/Ravan102030)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -89,12 +89,10 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - `/resume` to resume the playback. 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/AuraXMusicBot" alt="AuraXMusicBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AuraXMusicBot-blue" /> </a>
-* News channel: <a  href="https://t.me/AuraXUpdates" alt="AuraXMusicBot Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AuraXMusicBot%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/W2H_MUSIC_BOT" alt="W2H_MUSIC_BOT"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-W2H_MUSIC_BOT-blue" /> </a>
 
 ## Support
-- [Channel](https://t.me/AuraXNetwork)
-- [Group](https://t.me/AuraXSupport)
+- [Group](https://t.me/Ravan102030)
 
 ## Credits
 - [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
