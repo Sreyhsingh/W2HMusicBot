@@ -26,10 +26,10 @@ For source code Join our support group @RAVAN102030.
                 ],
                 [
                     InlineKeyboardButton(
-                        "Creater⚡️", url="https://t.me/AuraX_Owner"
+                        "Creater⚡️", url="https://t.me/David99q"
                     ),
                     InlineKeyboardButton(
-                        "PglZone⚡️", url="https://t.me/PglZone"
+                        "W2H⚡️", url="https://t.me/Ravan102030"
                     )
                 ],
                 [
