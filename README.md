@@ -16,12 +16,12 @@ Neither su music project , nor pytgcalls are stable
 <a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/W2HGalaxy-OP/AuraXMusicBot?style=flat&logo=github&color=success" /> </a>
 <a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub commit activity"> <img src="https://img.shields.io/github/commit-activity/m/W2HGalaxy-OP/AuraXMusicBot" /> </a>
 <a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/W2HGalaxy-OP/AuraXMusicBot?style=flat&logo=github" /> </a>
-<a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/W2HGalaxy-OP/AuraXMusicBot?label=Forks&logo=github" /> </a>
-<a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/W2HGalaxy-OP/AuraXMusicBot?color=success" /> </a>
-<a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/W2HGalaxy-OP/AuraXMusicBot?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/sreyhsingh/AuraXMusicBot?label=Forks&logo=github" /> </a>
+<a href="https://github.com/sreyhsingh/AuraXMusicBot" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/W2HGalaxy-OP/AuraXMusicBot?color=success" /> </a>
+<a href="https://github.com/sreyhsingh/AuraXMusicBot" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/W2HGalaxy-OP/AuraXMusicBot?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
-<a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/W2HGalaxy-OP/AuraXMusicBot?include_prereleases?style=flat&logo=github" /> </a>
+<a href="https://github.com/sreyhsingh/AuraXMusicBot" alt="GitHub release (latest by date including pre-releases)"> <img src="https://img.shields.io/github/v/release/W2HGalaxy-OP/AuraXMusicBot?include_prereleases?style=flat&logo=github" /> </a>
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
 <a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
 <a href="https://github.com/W2HGalaxy-OP/AuraXMusicBot" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/W2HGalaxy-OP/AuraXMusicBot" /> </a>
